@@ -20,7 +20,7 @@ I edited each article and added this text at the end:
 * The Commenter's name, 
 * and the link to the G+ site.
 
-I left the link text as the original G+ page, but I used the Internet Archive URL for the link. (See the **Internet Archive page** in this repository.)
+I left the link text as the original G+ page, but I used the Internet Archive URL for the link. (See the **[Internet Archive page](https://github.com/Lmh1/G-MitigationForBlogs/blob/master/InternetArchive.md)** in this repository.)
 
 You can search for the same phrase, **"plus.google.com"**, to find out how many pages have links to G+. I have over 150 total links. I had to ensure that was an accurate count. I had to run an SQL to get a more focused list of posts that I had to decide how to handle. Some on G+ have already left, so there is no way to link to them. Each of you will have to decide how you will handle those. I have not yet decided. For the SQLs I used please see **WordPress Posts**.
 
