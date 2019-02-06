@@ -13,7 +13,7 @@ Those of us who not use **Blogger** have more time to deal with our G+ comments.
 
 I edited each article and added this text at the end:
 
-[EDIT: Google is deleting all G+ comments to non-blogger blogs. Below is one of two G+ comments on my blog I want to save. 02/06/2019]
+\[**EDIT:** Google is deleting all G+ comments to non-blogger blogs. Below is one of two G+ comments on my blog I want to save. 02/06/2019\]
 
 * I then pasted in the comment,
 * The Date,
