@@ -9,7 +9,7 @@ February 4/5, 2019 they deleted all G+ comments from blogs on Blogger. They gave
 
 Those of us who not use **Blogger** have more time to deal with our G+ comments. For **WordPress** users, you can go to your All Comments page in your Admin area and use the search field for **"plus.google.com"**. If you have more than a few, it will be more of a challenge. I only had two so I fixed those manually.
 
-**My manual method is this:
+**My manual method is this:**
 
 I edited each article and added this text at the end:
 
